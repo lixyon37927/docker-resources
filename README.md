@@ -3,6 +3,8 @@ A collection of docker online resources.
 
 中文版本[链接](https://github.com/hangyan/docker-resources/blob/master/README_zh.md)
 
+[好雨首页](http://www.goodrain.com)
+
 # Menu
 * [Main Resources](#main-resources)
   * [Books](#books)
